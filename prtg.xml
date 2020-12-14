@@ -1,0 +1,10 @@
+<prtg>
+<result>
+<channel>First channel</channel>
+<value>10</value>
+</result>
+<result>
+<channel>Second channel</channel>
+<value>20</value>
+</result>
+</prtg>
