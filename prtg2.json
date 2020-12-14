@@ -1,0 +1,14 @@
+        {
+          "prtg": {
+           "result": [
+            {
+             "channel": "First channel",
+             "value": 10
+            },
+            {
+             "channel": "Second channel",
+             "value": 20
+            }
+           ]
+          }
+         }
